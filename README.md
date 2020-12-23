@@ -37,9 +37,9 @@
 
 **Team :-**
 
-- hamza khaled
-- ammar yasser 
-- nabeel abdulrab
-- khaled abdolqwi
-- ahammed faize
+- Hamza Khaled
+- Ammar Yasser 
+- Nabeel Abdorab
+- Khaled Abdulqawi
+- Ahmmed Faiz
 
